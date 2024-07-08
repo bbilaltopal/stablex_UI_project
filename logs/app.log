@@ -1,0 +1,112 @@
+2024-07-08 09:54:34.902 [main] INFO  stepdefinitions.hook.Hooks:30 - ---------------Test Automation has started------------
+2024-07-08 09:54:34.908 [main] INFO  stepdefinitions.hook.Hooks:31 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 09:54:34.911 [main] INFO  stepdefinitions.hook.Hooks:32 - Browser type ----> chrome
+2024-07-08 09:54:40.117 [main] INFO  stepdefinitions.BasicStepDefinitions:16 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 09:54:40.141 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 09:54:40.240 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: btc
+2024-07-08 09:54:40.628 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 1, Actual number of coins: 1
+2024-07-08 09:54:40.825 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:43 - Name of coin BTC, Coin found: true, in the list: BTC/TRY
+2024-07-08 09:54:40.830 [main] INFO  stepdefinitions.hook.Hooks:52 - Test scenario -->>> ->>>> Passed
+2024-07-08 09:54:42.783 [main] INFO  stepdefinitions.hook.Hooks:30 - ---------------Test Automation has started------------
+2024-07-08 09:54:42.783 [main] INFO  stepdefinitions.hook.Hooks:31 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 09:54:42.783 [main] INFO  stepdefinitions.hook.Hooks:32 - Browser type ----> chrome
+2024-07-08 09:54:46.493 [main] INFO  stepdefinitions.BasicStepDefinitions:16 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 09:54:46.513 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 09:54:46.600 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: BTC
+2024-07-08 09:54:47.006 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 1, Actual number of coins: 1
+2024-07-08 09:54:47.061 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:43 - Name of coin BTC, Coin found: true, in the list: BTC/TRY
+2024-07-08 09:54:47.063 [main] INFO  stepdefinitions.hook.Hooks:52 - Test scenario -->>> ->>>> Passed
+2024-07-08 09:54:48.980 [main] INFO  stepdefinitions.hook.Hooks:30 - ---------------Test Automation has started------------
+2024-07-08 09:54:48.981 [main] INFO  stepdefinitions.hook.Hooks:31 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 09:54:48.981 [main] INFO  stepdefinitions.hook.Hooks:32 - Browser type ----> chrome
+2024-07-08 09:54:53.066 [main] INFO  stepdefinitions.BasicStepDefinitions:16 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 09:54:53.087 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 09:54:53.181 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: b
+2024-07-08 09:54:53.640 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 2, Actual number of coins: 2
+2024-07-08 09:54:53.723 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:43 - Name of coin BTC, Coin found: true, in the list: BTC/TRY, SHIB/TRY
+2024-07-08 09:54:53.726 [main] INFO  stepdefinitions.hook.Hooks:52 - Test scenario -->>> ->>>> Passed
+2024-07-08 09:54:54.105 [main] INFO  stepdefinitions.hook.Hooks:30 - ---------------Test Automation has started------------
+2024-07-08 09:54:54.105 [main] INFO  stepdefinitions.hook.Hooks:31 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 09:54:54.106 [main] INFO  stepdefinitions.hook.Hooks:32 - Browser type ----> chrome
+2024-07-08 09:54:59.780 [main] INFO  stepdefinitions.BasicStepDefinitions:16 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 09:54:59.800 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 09:54:59.888 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: bt
+2024-07-08 09:55:00.423 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 2, Actual number of coins: 2
+2024-07-08 09:55:00.500 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:43 - Name of coin BTC, Coin found: true, in the list: BTC/TRY, SHIB/TRY
+2024-07-08 09:55:00.503 [main] INFO  stepdefinitions.hook.Hooks:52 - Test scenario -->>> ->>>> Passed
+2024-07-08 09:55:02.394 [main] INFO  stepdefinitions.hook.Hooks:30 - ---------------Test Automation has started------------
+2024-07-08 09:55:02.395 [main] INFO  stepdefinitions.hook.Hooks:31 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 09:55:02.395 [main] INFO  stepdefinitions.hook.Hooks:32 - Browser type ----> chrome
+2024-07-08 09:55:06.776 [main] INFO  stepdefinitions.BasicStepDefinitions:16 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 09:55:06.795 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 09:55:06.871 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: TC
+2024-07-08 09:55:07.366 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 2, Actual number of coins: 2
+2024-07-08 09:55:07.459 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:43 - Name of coin BTC, Coin found: true, in the list: BTC/TRY, LTC/TRY
+2024-07-08 09:55:07.461 [main] INFO  stepdefinitions.hook.Hooks:52 - Test scenario -->>> ->>>> Passed
+2024-07-08 09:55:07.808 [main] INFO  stepdefinitions.hook.Hooks:30 - ---------------Test Automation has started------------
+2024-07-08 09:55:07.809 [main] INFO  stepdefinitions.hook.Hooks:31 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 09:55:07.809 [main] INFO  stepdefinitions.hook.Hooks:32 - Browser type ----> chrome
+2024-07-08 09:55:12.196 [main] INFO  stepdefinitions.BasicStepDefinitions:16 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 09:55:12.213 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 09:55:12.287 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: tc
+2024-07-08 09:55:12.836 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 2, Actual number of coins: 2
+2024-07-08 09:55:12.911 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:43 - Name of coin BTC, Coin found: true, in the list: BTC/TRY, LTC/TRY
+2024-07-08 09:55:12.914 [main] INFO  stepdefinitions.hook.Hooks:52 - Test scenario -->>> ->>>> Passed
+2024-07-08 09:55:13.238 [main] INFO  stepdefinitions.hook.Hooks:30 - ---------------Test Automation has started------------
+2024-07-08 09:55:13.238 [main] INFO  stepdefinitions.hook.Hooks:31 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 09:55:13.239 [main] INFO  stepdefinitions.hook.Hooks:32 - Browser type ----> chrome
+2024-07-08 09:55:17.473 [main] INFO  stepdefinitions.BasicStepDefinitions:16 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 09:55:17.487 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 09:55:17.570 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: not a specific coin selected
+2024-07-08 09:55:17.949 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 29, Actual number of coins: 29
+2024-07-08 09:55:18.754 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:43 - Name of coin BTC, Coin found: true, in the list: AAVE/TRY, ALGO/TRY, AVAX/TRY, AXS/TRY, BTC/TRY, CHZ/TRY, COMP/TRY,
+ DOGE/TRY, EOS/TRY, ETH/TRY, FTM/TRY, GRT/TRY, HOT/TRY, LINK/TRY, LRC/TRY, LTC/TRY,
+ MANA/TRY, MATIC/TRY, MKR/TRY, SAND/TRY, SHIB/TRY, SOL/TRY, STORJ/TRY, STX/TRY,
+ TRX/TRY, UNI/TRY, USDT/TRY, XLM/TRY, XRP/TRY
+2024-07-08 09:55:18.756 [main] INFO  stepdefinitions.hook.Hooks:52 - Test scenario -->>> ->>>> Passed
+2024-07-08 10:14:02.952 [main] INFO  stepdefinitions.hook.Hooks:30 - ---------------Test Automation has started------------
+2024-07-08 10:14:02.963 [main] INFO  stepdefinitions.hook.Hooks:31 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 10:14:02.969 [main] INFO  stepdefinitions.hook.Hooks:32 - Browser type ----> chrome
+2024-07-08 10:14:25.964 [main] INFO  stepdefinitions.BasicStepDefinitions:16 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 10:14:26.085 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 10:14:26.286 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: BTC
+2024-07-08 10:14:28.145 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 1, Actual number of coins: 1
+2024-07-08 10:14:28.811 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:43 - Name of coin BTC, Coin found: true, in the list: BTC/TRY
+2024-07-08 10:14:28.971 [main] INFO  stepdefinitions.hook.Hooks:52 - Test scenario -->>> ->>>> Passed
+2024-07-08 10:20:00.802 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-07-08 10:20:00.815 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 10:20:00.821 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-07-08 10:20:07.335 [main] INFO  stepdefinitions.BasicStepDefinitions:15 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 10:20:07.360 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 10:20:07.444 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: btc
+2024-07-08 10:20:07.914 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 1, Actual number of coins: 1
+2024-07-08 10:20:08.258 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:44 - Name of coin BTC, Coin found: true, in the list: BTC/TRY
+2024-07-08 10:20:08.266 [main] INFO  stepdefinitions.hook.Hooks:50 - Test scenario -->>> ->>>> Passed
+2024-07-08 10:45:49.543 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-07-08 10:45:49.555 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 10:45:49.561 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-07-08 10:45:59.471 [main] INFO  stepdefinitions.BasicStepDefinitions:15 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 10:45:59.491 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 10:45:59.573 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: TC
+2024-07-08 10:46:00.084 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 2, Actual number of coins: 2
+2024-07-08 10:46:00.413 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:44 - Name of coin BTC, Coin found: true, in the list: BTC/TRY, LTC/TRY
+2024-07-08 10:46:00.424 [main] INFO  stepdefinitions.hook.Hooks:50 - Test scenario -->>> ->>>> Passed
+2024-07-08 10:50:10.465 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-07-08 10:50:10.477 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 10:50:10.625 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-07-08 10:50:20.510 [main] INFO  stepdefinitions.BasicStepDefinitions:15 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 10:50:20.531 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 10:50:20.637 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: btc
+2024-07-08 10:50:21.225 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 1, Actual number of coins: 1
+2024-07-08 10:50:21.536 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:44 - Name of coin BTC, Coin found: true, in the list: BTC/TRY
+2024-07-08 10:50:21.545 [main] INFO  stepdefinitions.hook.Hooks:50 - Test scenario -->>> ->>>> Passed
+2024-07-08 11:10:58.006 [main] INFO  stepdefinitions.hook.Hooks:27 - ---------------Test Automation has started------------
+2024-07-08 11:10:58.014 [main] INFO  stepdefinitions.hook.Hooks:28 - Test Scenario : Filter and Verify Specific Cryptocurrency
+2024-07-08 11:10:58.021 [main] INFO  stepdefinitions.hook.Hooks:29 - Browser type ----> chrome
+2024-07-08 11:11:15.918 [main] INFO  stepdefinitions.BasicStepDefinitions:15 - Navigated to the baseURL: https://stablex.com.tr
+2024-07-08 11:11:15.942 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:21 - Scrolling to section: market
+2024-07-08 11:11:16.040 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:27 - Filtering coin by name: TC
+2024-07-08 11:11:16.630 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:35 - Expected number of coins: 2, Actual number of coins: 2
+2024-07-08 11:11:17.798 [main] INFO  stepdefinitions.coinstepdefinitions.HomePageStepDefinitions:44 - Name of coin BTC, Coin found: true, in the list: BTC/TRY, LTC/TRY
+2024-07-08 11:11:17.806 [main] INFO  stepdefinitions.hook.Hooks:50 - Test scenario -->>> ->>>> Passed
+
