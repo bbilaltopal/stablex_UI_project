@@ -1,3 +1,5 @@
+CREATED BY BİLAL TOPAL - 08.07.2024
+
 Description
 
 This case is provided by Stablex Company as part of the hiring process. It focuses on the selective filtration of cryptocurrencies and verification of the filtering mechanism's functionality as intended.
